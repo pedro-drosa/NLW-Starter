@@ -35,7 +35,8 @@
   line-height: 42px;
 }
 #modal form label{
-  font-size: 14px;
+  /* font-size: 14px; */
+  font-size: 0.01px;
   line-height: 16px;
   display: block;
   margin-bottom: 8px;
